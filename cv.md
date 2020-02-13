@@ -1,4 +1,4 @@
-# Resume <h1> 
+# Resume 
 1. Mariya Kozlova
 2. e-mail: saintren90@gmail.com; skype: crimson_ren
 3. A front-end developer thriving for knowledge and experience
